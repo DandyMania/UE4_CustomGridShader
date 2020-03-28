@@ -32,9 +32,9 @@ https://historia.co.jp/archives/275/
 | GridColorWide    | 基準となるグリッドの色設定。一番上に描かれる |
 |     |  |
 | Emissive    | Wide/Midele のグリッドのエミッシブカラーの調整用 |
-| LineIntervalMiddle  | グリッドの間隔(中) |
-| LineIntervalNarrow  | グリッドの間隔(細) |
-| LineIntervalWide  | グリッドの間隔(広) |
+| LineIntervalMiddle  | グリッドの間隔(中)。※単位はメートルです。 |
+| LineIntervalNarrow  | グリッドの間隔(細) ※単位はメートルです。|
+| LineIntervalWide  | グリッドの間隔(広) ※単位はメートルです。|
 | LineSizeMiddle  | グリッド太さ(中) |
 | LineSizeNarrow  | グリッド太さ(細) |
 | LineSizeWide  | グリッド太さ(広) |
