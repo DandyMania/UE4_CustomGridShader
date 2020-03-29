@@ -3,7 +3,7 @@ UE4向けグリッドシェーダー
 
 対応バージョン UE4.24.3  
 
-![ScreenShot00002](https://user-images.githubusercontent.com/2414102/77820259-4a727d80-7124-11ea-84b5-a8ac056a06f5.png)
+<img width="597" alt="customgrid" src="https://user-images.githubusercontent.com/2414102/77856323-4c763280-7231-11ea-8683-430a0cec83d3.png">
 
 # 概要
 テクスチャ未使用のシェーダーのみのグリッドシェーダー  
@@ -17,7 +17,7 @@ UE4向けグリッドシェーダー
 https://historia.co.jp/archives/275/  
 などでCustomGridフォルダ以下をお好きなプロジェクトに移動させてください
 
-* デフォルトのグリッドからカスタムしたい場合は、MT_CustomGridからマテリアルインスタンスを作成しパラメータを変更してください
+* デフォルトのグリッドからカスタムしたい場合は、CustomGrid/Materials/MT_CustomGrid からマテリアルインスタンスを作成しパラメータを変更してください
 <img width="741" alt="materialinstance" src="https://user-images.githubusercontent.com/2414102/77820265-5f4f1100-7124-11ea-8c5c-0ff1008f88d9.png">
 
 * あとはお好きなモデルにマテリアルを割り当てるとグリッドが表示されます
