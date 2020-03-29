@@ -31,6 +31,7 @@ https://historia.co.jp/archives/275/
 | GridColorNarrow  | 一番細かいグリッドの色設定。一番下に描かれる |
 | GridColorWide    | 基準となるグリッドの色設定。一番上に描かれる |
 |     |  |
+| Blink  | 0以外を入れると点滅するようになります。Emissiveの値を0以上にする必要があります。 |
 | Emissive    | Wide/Midele のグリッドのエミッシブカラーの調整用 |
 | LineIntervalMiddle  | グリッドの間隔(中)。※単位はメートルです。 |
 | LineIntervalNarrow  | グリッドの間隔(細) ※単位はメートルです。|
